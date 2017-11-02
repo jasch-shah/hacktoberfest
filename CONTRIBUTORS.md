@@ -16672,3 +16672,8 @@ to explore life. Also, Python and Django Developer
 - Place: Chennai, India
 - Bio: Android and IOS developer , Simply amazing what one can build with few lines of code.
 - GitHub: [RinkeshG](https://github.com/RinkeshG)
+
+#### Name: [Jash Shah](https://github.com/jasch-shah)
+- Place: Pune,India
+- Bio: Beginner
+- GitHub: [jasch-shah](https://github.com/jasch-shah)
